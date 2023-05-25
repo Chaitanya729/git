@@ -1,2 +1,2 @@
 # git
-This repository if for koss work
+This contains my submission for koss round 2
